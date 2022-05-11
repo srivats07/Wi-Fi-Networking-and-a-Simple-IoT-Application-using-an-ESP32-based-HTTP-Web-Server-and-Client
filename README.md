@@ -1,1 +1,0 @@
-# Wi-Fi-Networking-and-a-Simple-IoT-Application-using-an-ESP32-based-HTTP-Web-Server-and-Client
